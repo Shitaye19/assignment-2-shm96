@@ -1,0 +1,14 @@
+---
+title: "SCRISPR_Cas9 for gluten free wheat"
+author: "Shitaye Homma and Maria Akopyan"
+date: "10/1/2020"
+output: html_document
+---
+
+![](https://ep.bmj.com/content/edpract/101/4/213/F1.medium.gif)
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
