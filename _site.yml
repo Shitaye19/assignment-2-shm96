@@ -1,5 +1,6 @@
-output_dir: "."
+name: "Gene-editingwebsite"
 navbar:
+title:"Gene editing website Shitaye and Maria"
   left:
     - text: "Home"
       href: index.html
@@ -7,3 +8,4 @@ navbar:
       href: maria.html
     - text: "Shitaye"
       href:Shitaye.html  
+output_dir: "."
