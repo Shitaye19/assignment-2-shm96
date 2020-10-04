@@ -7,19 +7,14 @@ navbar:
       href: maria.html
     - text: "Shitaye"
       href: Shitaye.html  
-   
-   name: "my-website"
-navbar:
-  title: "Our Collaborative Website"
-  left:
-    - text: "Cars"
-      href: index.html
-    - text: "About"
-      href: about.html
-output_dir: "."
-output:
-  html_document:
-    theme: cerulean
-    highlight: textmate
-    toc: true 
-    toc_float: true    
+   theme: cerulean
+highlight: textmate
+toc: true 
+toc_float: true
+toc_depth:2
+  
+    
+    
+    
+    
+    
