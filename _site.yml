@@ -1,4 +1,8 @@
 output_dir: "."
+output:  
+  html_document:  
+    toc: true  
+    toc_float: true  
 navbar:
 title: "Our Collaborative Website"
   left:
