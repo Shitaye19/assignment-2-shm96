@@ -1,5 +1,6 @@
 output_dir: "."
 navbar:
+title: "Our Collaborative Website"
   left:
     - text: "Home"
       href: index.html
@@ -10,9 +11,7 @@ navbar:
    theme: cerulean
 highlight: textmate
 toc: true 
-#toc_float: true
-toc_depth:2
-  
+
     
     
     
