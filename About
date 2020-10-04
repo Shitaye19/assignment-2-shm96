@@ -15,3 +15,12 @@ output:
     highlight: textmate
     toc: true 
     toc_float: true 
+    ##It is not updating and working for me I couldn't understand the error.
+    
+    
+    #Error in yaml::yaml.load(..., eval.expr = TRUE) : 
+ # Parser error: while parsing a block mapping at line 1, column 1 did not find expected #key at line 8, column 3
+ 
+ 
+ 
+ 
