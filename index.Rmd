@@ -1,5 +1,5 @@
 ---
-title: "SCRISPR_Cas9 for gluten free wheat"
+title: "CRISPR_Cas9 for gluten free wheat"
 author: "Shitaye Homma and Maria Akopyan"
 date: "10/1/2020"
 output: html_document
