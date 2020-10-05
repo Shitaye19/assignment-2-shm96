@@ -12,6 +12,8 @@ output: html_document
 
 #3. Screening transformants
 
+#4. Removal of parental types
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
