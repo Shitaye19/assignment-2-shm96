@@ -20,7 +20,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 1. Guide RNA construction
 
+
 2. Agrobacterium transformation
+
 
 3. Screening transformants
 
