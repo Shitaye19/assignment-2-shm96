@@ -6,11 +6,11 @@ output: html_document
 ---
 
 ![](https://ep.bmj.com/content/edpract/101/4/213/F1.medium.gif)
-1. Guide RNA construction
+#1. Guide RNA construction
+  
+#2. Agrobacterium transformation
 
-2. Agrobacterium transformation
-
-3. Screening transformants
+#3. Screening transformants
 
 
 ```{r setup, include=FALSE}
