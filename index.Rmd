@@ -14,6 +14,9 @@ output: html_document
 
 #4. Removal of parental types
 
+#5. Awarness creation by consumers
+
+#6. Expansion of technology
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
